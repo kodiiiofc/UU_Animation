@@ -30,7 +30,4 @@
 
 ## Видео к домашнему заданию по теме "Animation"
 
-<video width="320" height="640" controls>
-<source src="md/video.webm" type="video/webm">
-Видео не поддерживается браузером
-</video>
+[video.webm](https://github.com/user-attachments/assets/0365fd1b-af24-4e40-a261-879640f12ad3)
